@@ -5,10 +5,12 @@ A simple flutter app for chating with each other. This app has :
 - Notifies all the other users when a new message is added by an user. 
 
 ## Authentication Screen
-<p float="left">
-<img src="ReadmeImages/Login.png" height="400px" width="200px" hspace="40px">
-<img src="ReadmeImages/SignUp.png" height="400px" width="200px" hspace="40px">
-</p>
+<div align="center">
+    <p float="left">
+        <img src="ReadmeImages/Login.png" height="400px" width="200px" hspace="40px">
+        <img src="ReadmeImages/SignUp.png" height="400px" width="200px" hspace="40px">
+    </p>
+</div>    
 
 The main points regarding these images :
 - Login requires the email address and password to login as shown in 1st figure.
