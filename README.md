@@ -41,3 +41,6 @@ The future improvements are as follows :
 - The image can also be improved by adding an option to select from gallery.
 - A profile system can be made for the user.
 - No private chating among users is possible. Here every message is sent to every other user. Thus private chating between two users can be made possible.
+
+## Download
+The apk of the project can be downloaded from [here](https://drive.google.com/file/d/1tWFCVO1yXUOKDNMlPvCsqljNV1lfZLhW/view?usp=sharing).
